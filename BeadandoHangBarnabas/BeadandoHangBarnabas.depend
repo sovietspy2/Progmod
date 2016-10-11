@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1476209615 source:c:\users\barnabas\desktop\pte\progmod 2\beadandohangbarnabas\main.cpp
+	<iostream>
+	"MatrixBarnabas.h"
+
+1476208703 c:\users\barnabas\desktop\pte\progmod 2\beadandohangbarnabas\matrixbarnabas.h
+	<iostream>
+
+1476211789 source:c:\users\barnabas\desktop\pte\progmod 2\beadandohangbarnabas\matrixbarnabas.cpp
+	<iostream>
+	"MatrixBarnabas.h"
+	<time.h>
+	<windows.h>
+	<string>
+
