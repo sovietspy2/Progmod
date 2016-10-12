@@ -12,6 +12,7 @@ int main()
     ++proba;
     ++proba;
     ++proba;
+    ++proba;
     cout<<endl;
 
     proba.printMatrixFull();
