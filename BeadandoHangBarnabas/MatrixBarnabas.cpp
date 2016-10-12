@@ -72,6 +72,7 @@ MatrixBarnabas MatrixBarnabas::operator++()
                     matrix[elsoNemNullaSor][j] = 1;
                 }
             }
+            else if (elsoNemNullaSor == 4) cout << "hiba a matrix tele van!"<<endl;
             else if (TeleSor(elsoNemNullaSor) && elsoNemNullaSor<4)
             {
                 elsoNemNullaSor++;

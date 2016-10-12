@@ -13,3 +13,17 @@
 	<windows.h>
 	<string>
 
+1476209615 source:c:\users\barnabas\documents\github\progmod\beadandohangbarnabas\main.cpp
+	<iostream>
+	"MatrixBarnabas.h"
+
+1476208703 c:\users\barnabas\documents\github\progmod\beadandohangbarnabas\matrixbarnabas.h
+	<iostream>
+
+1476256511 source:c:\users\barnabas\documents\github\progmod\beadandohangbarnabas\matrixbarnabas.cpp
+	<iostream>
+	"MatrixBarnabas.h"
+	<time.h>
+	<windows.h>
+	<string>
+
